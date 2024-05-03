@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -124,8 +124,8 @@
             07.2019 – 08.2019 | Aydın, Turkey</p>
           <p>Şehir Plancısı – PLANART TASARIM ŞEHİR PLANLAMA LTD. ŞTİ 
             01.2018 – 02.2018 | Adana, Turkey</p>
-        </p>
-  </section>
+       
+
 
   <!-- Eğitim Bölümü -->
   <section id="education" class="resume-section">
@@ -141,9 +141,7 @@
             Lisans Eğitimi – GPA : 2,72/4,00 – İzmir TÜRKİYE</p>
             <p>İSMAİL SAFA ÖZLER ANADOLU LİSESİ / 2013-2017 
             GPA: 87,06/100 – Adana Türkiye</p>
-          </p>
-  </section>
-  
+
   <!-- Deneyimler Bölümü -->
   <section id="s" class="resume-section bg-light">
     <div class="container">
@@ -159,7 +157,7 @@
           <p>Minikler Stilize Dalda Halk Oyunu | Altın Madalya 
             Türkiye Birincisi| 2010</p>
         </p>
-  </section>
+
 
   <!-- İletişim Bölümü -->
   <section id="contact" class="resume-section bg-light">
@@ -200,5 +198,4 @@
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
+
